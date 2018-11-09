@@ -12,7 +12,7 @@
 - in Python command line navigate to the repository
 	>`>>>import os`
 
-	>`>>>os.chdir(“C:\\your-file-path-goes-here\\neural-networks-and-deep-learning\\src”)`
+	>`>>>os.chdir(“C:\\your-file-path-goes-here\\deep-learning-handwriting-neural-net\\src”)`
 
 - Import the MNIST database via the mnist_loader file
 	>`>>>import mnist_loader`
