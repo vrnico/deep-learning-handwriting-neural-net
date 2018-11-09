@@ -1,6 +1,7 @@
 # using neural nets to recognize handwritten digits
 
 ### a neural net built in python using the MNIST handwriting database.
+#### by Nico Daunt
 
 ###### based off educational content in the tutorial linked below by Michael Nielsen
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
